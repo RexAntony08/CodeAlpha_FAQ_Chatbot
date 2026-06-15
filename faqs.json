@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What courses are offered?",
+    "answer": "We offer B.Sc, B.Com, BCA, BBA, and B.Tech courses."
+  },
+  {
+    "question": "How can I apply for admission?",
+    "answer": "You can apply online through the college admission portal."
+  },
+  {
+    "question": "What is the last date for admission?",
+    "answer": "The last date for admission is 30th June."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "answer": "You need 10th and 12th mark sheets, ID proof, and passport-size photographs."
+  },
+  {
+    "question": "Is there any scholarship available?",
+    "answer": "Yes, merit-based and government scholarships are available."
+  },
+  {
+    "question": "What are the college timings?",
+    "answer": "The college operates from 9:00 AM to 4:00 PM."
+  },
+  {
+    "question": "How can I contact the college?",
+    "answer": "You can contact us at +91-9876543210 or email admissions@college.edu."
+  }
+]
